@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       UddoktaGetway for WooCommerce
- * Plugin URI:        https://uddoktagetway.com
+ * Plugin URI:        https://github.com/uddokta-getway
  * Description:       Accept bKash, Nagad, Rocket, cards and bank payments in WooCommerce through your UddoktaGetway merchant store.
  * Version:           1.0.0
  * Author:            UddoktaGetway
